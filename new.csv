@@ -1,0 +1,663 @@
+﻿Year,Month,City,Sea Turtle,Cetacean,Total Count
+2021,1,New Tapei City,16,2,18
+2021,1,Penghu County,13,3,16
+2021,1,Yilan County,10,2,12
+2021,1,Taitung County,8,2,10
+2021,1,Pingtung County,3,3,6
+2021,1,Kaohsiung City,5,0,5
+2021,1,Lienchiang County,0,3,3
+2021,1,Hualien County ,1,1,2
+2021,1,Yunlin County,1,1,2
+2021,1,Tainan City,2,0,2
+2021,1,Miaoli County,1,0,1
+2021,1,Taoyuan City,1,0,1
+2021,1,Keelung City,1,0,1
+2021,1,Changhua County,1,0,1
+2021,2,New Tapei City,12,0,12
+2021,2,Penghu County,7,1,8
+2021,2,Yilan County,7,0,7
+2021,2,Taitung County,6,0,6
+2021,2,Keelung City,3,0,3
+2021,2,Changhua County,0,3,3
+2021,2,Pingtung County,2,0,2
+2021,2,Tainan City,1,1,2
+2021,2,Hualien County ,0,1,1
+2021,2,Kinmen County,0,1,1
+2021,2,Miaoli County,0,1,1
+2021,2,Taoyuan City,1,0,1
+2021,2,Yunlin County,0,1,1
+2021,2,Chiayi County,0,1,1
+2021,3,New Tapei City,12,2,14
+2021,3,Penghu County,8,5,13
+2021,3,Pingtung County,6,1,7
+2021,3,Taitung County,5,2,7
+2021,3,Keelung City,5,1,6
+2021,3,Yilan County,4,1,5
+2021,3,Hualien County ,4,0,4
+2021,3,Miaoli County,1,2,3
+2021,3,Taoyuan City,1,1,2
+2021,3,Yunlin County,1,0,1
+2021,3,Changhua County,0,1,1
+2021,3,Taichung City,0,1,1
+2021,3,Tainan City,1,0,1
+2021,4,New Tapei City,16,0,16
+2021,4,Penghu County,12,1,13
+2021,4,Lienchiang County,0,9,9
+2021,4,Yilan County,6,1,7
+2021,4,Taitung County,3,2,5
+2021,4,Keelung City,2,2,4
+2021,4,Hualien County ,2,1,3
+2021,4,Miaoli County,0,2,2
+2021,4,Taoyuan City,1,1,2
+2021,4,Kinmen County,0,1,1
+2021,4,Pingtung County,1,0,1
+2021,4,Yunlin County,0,1,1
+2021,4,Chiayi County,1,0,1
+2021,4,Taichung City,0,1,1
+2021,5,Penghu County,6,2,8
+2021,5,Taitung County,3,1,4
+2021,5,New Tapei City,3,0,3
+2021,5,Kinmen County,0,2,2
+2021,5,Pingtung County,2,0,2
+2021,5,Keelung City,1,1,2
+2021,5,Changhua County,0,2,2
+2021,5,Tainan City,1,1,2
+2021,5,Miaoli County,1,0,1
+2021,5,Lienchiang County,0,1,1
+2021,5,Yunlin County,1,0,1
+2021,5,Hsinchu County,1,0,1
+2021,5,Taichung City,1,0,1
+2021,6,Penghu County,4,0,4
+2021,6,Taoyuan City,0,2,2
+2021,6,Keelung City,0,2,2
+2021,6,Taitung County,2,0,2
+2021,6,Yilan County,1,0,1
+2021,6,Kinmen County,0,1,1
+2021,7,Taitung County,7,0,7
+2021,7,Yilan County,2,1,3
+2021,7,Hualien County ,2,1,3
+2021,7,Pingtung County,2,0,2
+2021,7,Tainan City,1,1,2
+2021,7,Penghu County,1,1,2
+2021,7,Kinmen County,0,1,1
+2021,7,Miaoli County,1,0,1
+2021,7,Taoyuan City,0,1,1
+2021,7,Keelung City,1,0,1
+2021,7,Lienchiang County,0,1,1
+2021,7,New Tapei City,1,0,1
+2021,7,Hsinchu County,0,1,1
+2021,7,Taichung City,0,1,1
+2021,8,Penghu County,4,0,4
+2021,8,Yilan County,1,2,3
+2021,8,Kinmen County,1,1,2
+2021,8,Taitung County,2,0,2
+2021,8,Hualien County ,1,0,1
+2021,8,Pingtung County,1,0,1
+2021,8,Keelung City,1,0,1
+2021,8,Lienchiang County,0,1,1
+2021,8,Hsinchu County,0,1,1
+2021,8,Tainan City,0,1,1
+2021,9,New Tapei City,6,1,7
+2021,9,Penghu County,5,2,7
+2021,9,Hualien County ,3,1,4
+2021,9,Kinmen County,0,4,4
+2021,9,Pingtung County,2,0,2
+2021,9,Lienchiang County,0,2,2
+2021,9,Taitung County,2,0,2
+2021,9,Yilan County,1,0,1
+2021,9,Taoyuan City,1,0,1
+2021,9,Kaohsiung City,1,0,1
+2021,9,Changhua County,0,1,1
+2021,10,Penghu County,11,1,12
+2021,10,Taitung County,7,0,7
+2021,10,Pingtung County,3,3,6
+2021,10,Kinmen County,3,1,4
+2021,10,New Tapei City,3,1,4
+2021,10,Taoyuan City,1,2,3
+2021,10,Lienchiang County,0,2,2
+2021,10,Yilan County,1,0,1
+2021,10,Hualien County ,1,0,1
+2021,11,Penghu County,8,1,9
+2021,11,Pingtung County,4,0,4
+2021,11,Lienchiang County,0,4,4
+2021,11,New Tapei City,4,0,4
+2021,11,Yilan County,2,1,3
+2021,11,Changhua County,1,2,3
+2021,11,Taitung County,3,0,3
+2021,11,Taoyuan City,1,1,2
+2021,11,Tainan City,2,0,2
+2021,11,Kinmen County,0,1,1
+2021,12,New Tapei City,12,4,16
+2021,12,Penghu County,10,3,13
+2021,12,Hualien County ,2,2,4
+2021,12,Kinmen County,0,4,4
+2021,12,Pingtung County,4,0,4
+2021,12,Yilan County,2,0,2
+2021,12,Miaoli County,1,1,2
+2021,12,Taichung City,0,2,2
+2021,12,Taoyuan City,1,0,1
+2021,12,Keelung City,1,0,1
+2021,12,Lienchiang County,0,1,1
+2022,1,Yilan County,8,1,9
+2022,1,Taitung County,5,3,8
+2022,1,Penghu County,6,1,7
+2022,1,Tainan City,3,2,5
+2022,1,New Tapei City,1,3,4
+2022,1,Hualien County ,0,3,3
+2022,1,Kaohsiung City,1,2,3
+2022,1,Kinmen County,0,2,2
+2022,1,Lienchiang County,0,2,2
+2022,1,Miaoli County,1,0,1
+2022,1,Taoyuan City,1,0,1
+2022,2,New Tapei City,9,4,13
+2022,2,Penghu County,9,2,11
+2022,2,Taitung County,8,0,8
+2022,2,Yilan County,5,0,5
+2022,2,Hualien County ,2,0,2
+2022,2,Pingtung County,2,0,2
+2022,2,Keelung City,2,0,2
+2022,2,Lienchiang County,0,2,2
+2022,2,Changhua County,0,2,2
+2022,2,Kinmen County,0,1,1
+2022,2,Taoyuan City,0,1,1
+2022,2,Kaohsiung City,1,0,1
+2022,2,Chiayi County,0,1,1
+2022,2,Tainan City,0,1,1
+2022,3,Penghu County,11,2,13
+2022,3,Taitung County,9,0,9
+2022,3,New Tapei City,6,2,8
+2022,3,Yilan County,7,0,7
+2022,3,Kinmen County,0,4,4
+2022,3,Kaohsiung City,4,0,4
+2022,3,Pingtung County,1,2,3
+2022,3,Taoyuan City,0,3,3
+2022,3,Lienchiang County,0,3,3
+2022,3,Hualien County ,2,0,2
+2022,3,Keelung City,1,0,1
+2022,3,Hsinchu County,1,0,1
+2022,3,Changhua County,0,1,1
+2022,3,Tainan City,0,1,1
+2022,4,New Tapei City,6,2,8
+2022,4,Penghu County,6,1,7
+2022,4,Taitung County,5,1,6
+2022,4,Yilan County,5,0,5
+2022,4,Pingtung County,5,0,5
+2022,4,Lienchiang County,0,5,5
+2022,4,Kinmen County,0,4,4
+2022,4,Taoyuan City,1,3,4
+2022,4,Kaohsiung City,1,1,2
+2022,4,Keelung City,2,0,2
+2022,4,Changhua County,0,2,2
+2022,4,Hualien County ,0,1,1
+2022,4,Miaoli County,1,0,1
+2022,4,Tainan City,0,1,1
+2022,5,Pingtung County,5,2,7
+2022,5,Penghu County,5,2,7
+2022,5,Taitung County,4,2,6
+2022,5,Yilan County,4,1,5
+2022,5,Kinmen County,0,3,3
+2022,5,Lienchiang County,0,2,2
+2022,5,Hualien County ,1,0,1
+2022,5,Miaoli County,1,0,1
+2022,5,Kaohsiung City,0,1,1
+2022,5,Keelung City,1,0,1
+2022,5,New Tapei City,0,1,1
+2022,5,Hsinchu County,0,1,1
+2022,5,Changhua County,0,1,1
+2022,5,Tainan City,1,0,1
+2022,6,Taitung County,7,0,7
+2022,6,Yilan County,4,0,4
+2022,6,Pingtung County,3,0,3
+2022,6,Kaohsiung City,1,1,2
+2022,6,New Tapei City,2,0,2
+2022,6,Penghu County,2,0,2
+2022,6,Hualien County ,1,0,1
+2022,6,Lienchiang County,0,1,1
+2022,6,Changhua County,0,1,1
+2022,6,Tainan City,0,1,1
+2022,7,New Tapei City,9,0,9
+2022,7,Penghu County,4,0,4
+2022,7,Keelung City,3,0,3
+2022,7,Taitung County,1,2,3
+2022,7,Lienchiang County,0,2,2
+2022,7,Pingtung County,1,0,1
+2022,7,Taoyuan City,1,0,1
+2022,7,Kaohsiung City,1,0,1
+2022,7,Tainan City,1,0,1
+2022,8,Taitung County,9,0,9
+2022,8,Penghu County,4,0,4
+2022,8,Yilan County,2,1,3
+2022,8,Lienchiang County,1,2,3
+2022,8,Pingtung County,2,0,2
+2022,8,Keelung City,1,1,2
+2022,8,Chiayi County,2,0,2
+2022,8,Kinmen County,0,1,1
+2022,8,Kaohsiung City,1,0,1
+2022,8,New Tapei City,1,0,1
+2022,8,Tainan City,1,0,1
+2022,9,Taitung County,6,0,6
+2022,9,Penghu County,6,0,6
+2022,9,Hualien County ,0,2,2
+2022,9,Pingtung County,2,0,2
+2022,9,Lienchiang County,1,1,2
+2022,9,Yilan County,1,0,1
+2022,9,Hsinchu County,1,0,1
+2022,9,Tainan City,1,0,1
+2022,10,Penghu County,7,1,8
+2022,10,New Tapei City,6,1,7
+2022,10,Taitung County,1,3,4
+2022,10,Yilan County,3,0,3
+2022,10,Pingtung County,3,0,3
+2022,10,Miaoli County,1,2,3
+2022,10,Taoyuan City,1,2,3
+2022,10,Hualien County ,1,1,2
+2022,10,Kinmen County,0,2,2
+2022,10,Keelung City,1,0,1
+2022,10,Lienchiang County,0,1,1
+2022,10,Hsinchu County,0,1,1
+2022,10,Changhua County,0,1,1
+2022,11,Penghu County,11,0,11
+2022,11,Taitung County,4,1,5
+2022,11,New Tapei City,3,1,4
+2022,11,Yilan County,2,1,3
+2022,11,Miaoli County,0,2,2
+2022,11,Lienchiang County,0,2,2
+2022,11,Kinmen County,0,1,1
+2022,11,Pingtung County,1,0,1
+2022,11,Taoyuan City,1,0,1
+2022,11,Kaohsiung City,1,0,1
+2022,12,Penghu County,7,3,10
+2022,12,New Tapei City,3,5,8
+2022,12,Taitung County,4,0,4
+2022,12,Hualien County ,2,1,3
+2022,12,Kaohsiung City,2,1,3
+2022,12,Lienchiang County,0,3,3
+2022,12,Yilan County,1,1,2
+2022,12,Pingtung County,2,0,2
+2022,12,Taoyuan City,2,0,2
+2022,12,Miaoli County,1,0,1
+2022,12,Yunlin County,0,1,1
+2022,12,Changhua County,0,1,1
+2022,12,Taichung City,0,1,1
+2022,12,Tainan City,1,0,1
+2023,1,New Tapei City,10,1,11
+2023,1,Penghu County,6,1,7
+2023,1,Yilan County,3,1,4
+2023,1,Pingtung County,3,1,4
+2023,1,Miaoli County,0,3,3
+2023,1,Taitung County,1,2,3
+2023,1,Taoyuan City,0,2,2
+2023,1,Changhua County,0,2,2
+2023,1,Hualien County ,0,1,1
+2023,1,Kaohsiung City,1,0,1
+2023,1,Tainan City,1,0,1
+2023,2,Taitung County,10,4,14
+2023,2,Penghu County,14,0,14
+2023,2,New Tapei City,11,1,12
+2023,2,Kinmen County,0,3,3
+2023,2,Pingtung County,2,1,3
+2023,2,Tainan City,2,1,3
+2023,2,Yilan County,2,0,2
+2023,2,Lienchiang County,0,2,2
+2023,2,Hualien County ,1,0,1
+2023,2,Taoyuan City,1,0,1
+2023,2,Yunlin County,1,0,1
+2023,2,Taichung City,1,0,1
+2023,3,Taitung County,6,2,8
+2023,3,Pingtung County,5,0,5
+2023,3,New Tapei City,5,0,5
+2023,3,Penghu County,4,1,5
+2023,3,Kinmen County,0,3,3
+2023,3,Miaoli County,2,1,3
+2023,3,Yilan County,1,1,2
+2023,3,Taoyuan City,1,1,2
+2023,3,Changhua County,0,2,2
+2023,3,Hualien County ,1,0,1
+2023,3,Lienchiang County,0,1,1
+2023,3,Hsinchu County,1,0,1
+2023,4,Penghu County,10,2,12
+2023,4,Lienchiang County,0,8,8
+2023,4,Yilan County,7,0,7
+2023,4,New Tapei City,5,2,7
+2023,4,Pingtung County,6,0,6
+2023,4,Taoyuan City,1,3,4
+2023,4,Keelung City,3,1,4
+2023,4,Taitung County,3,1,4
+2023,4,Kaohsiung City,1,1,2
+2023,4,Tainan City,0,2,2
+2023,4,Hualien County ,1,0,1
+2023,4,Kinmen County,0,1,1
+2023,4,Miaoli County,1,0,1
+2023,4,Yunlin County,0,1,1
+2023,4,Changhua County,0,1,1
+2023,5,Yilan County,10,0,10
+2023,5,Lienchiang County,0,6,6
+2023,5,Kinmen County,0,4,4
+2023,5,Pingtung County,3,1,4
+2023,5,New Tapei City,2,2,4
+2023,5,Taitung County,3,1,4
+2023,5,Penghu County,4,0,4
+2023,5,Hualien County ,2,1,3
+2023,5,Keelung City,3,0,3
+2023,5,Miaoli County,0,2,2
+2023,5,Tainan City,0,2,2
+2023,5,Taoyuan City,0,1,1
+2023,5,Changhua County,0,1,1
+2023,6,Penghu County,7,1,8
+2023,6,Yilan County,4,3,7
+2023,6,Taitung County,3,1,4
+2023,6,New Tapei City,3,0,3
+2023,6,Tainan City,2,0,2
+2023,6,Hualien County ,1,0,1
+2023,6,Miaoli County,0,1,1
+2023,6,Keelung City,1,0,1
+2023,6,Lienchiang County,1,0,1
+2023,7,Yilan County,3,1,4
+2023,7,Taitung County,4,0,4
+2023,7,Kinmen County,0,3,3
+2023,7,Pingtung County,3,0,3
+2023,7,New Tapei City,3,0,3
+2023,7,Hualien County ,0,1,1
+2023,7,Taoyuan City,0,1,1
+2023,7,Kaohsiung City,0,1,1
+2023,7,Keelung City,1,0,1
+2023,7,Changhua County,0,1,1
+2023,7,Penghu County,1,0,1
+2023,8,Pingtung County,6,0,6
+2023,8,Taitung County,3,1,4
+2023,8,Penghu County,3,0,3
+2023,8,New Tapei City,2,0,2
+2023,8,Hualien County ,0,1,1
+2023,8,Miaoli County,0,1,1
+2023,8,Kaohsiung City,1,0,1
+2023,8,Lienchiang County,1,0,1
+2023,8,Tainan City,0,1,1
+2023,9,Pingtung County,6,0,6
+2023,9,New Tapei City,1,3,4
+2023,9,Taitung County,4,0,4
+2023,9,Tainan City,1,3,4
+2023,9,Lienchiang County,0,3,3
+2023,9,Yilan County,2,0,2
+2023,9,Kinmen County,1,1,2
+2023,9,Keelung City,2,0,2
+2023,9,Kaohsiung City,0,1,1
+2023,10,Yilan County,8,2,10
+2023,10,Penghu County,6,0,6
+2023,10,Lienchiang County,0,5,5
+2023,10,Taitung County,4,1,5
+2023,10,Kaohsiung City,3,0,3
+2023,10,Pingtung County,0,1,1
+2023,10,Taoyuan City,1,0,1
+2023,10,New Tapei City,1,0,1
+2023,10,Tainan City,1,0,1
+2023,11,Penghu County,5,3,8
+2023,11,Yilan County,6,0,6
+2023,11,Pingtung County,3,1,4
+2023,11,Miaoli County,0,3,3
+2023,11,New Tapei City,2,1,3
+2023,11,Hualien County ,2,0,2
+2023,11,Kinmen County,0,2,2
+2023,11,Lienchiang County,0,2,2
+2023,11,Taichung City,1,1,2
+2023,11,Taitung County,2,0,2
+2023,11,Kaohsiung City,1,0,1
+2023,11,Keelung City,1,0,1
+2023,11,Tainan City,1,0,1
+2023,12,Penghu County,12,5,17
+2023,12,Yilan County,5,4,9
+2023,12,Lienchiang County,1,7,8
+2023,12,New Tapei City,6,1,7
+2023,12,Taitung County,6,0,6
+2023,12,Pingtung County,3,1,4
+2023,12,Kaohsiung City,4,0,4
+2023,12,Kinmen County,0,3,3
+2023,12,Miaoli County,2,0,2
+2023,12,Keelung City,2,0,2
+2023,12,Taichung City,0,2,2
+2023,12,Yunlin County,0,1,1
+2023,12,Changhua County,0,1,1
+2023,12,Tainan City,1,0,1
+2024,1,Taitung County,7,2,9
+2024,1,Yilan County,8,0,8
+2024,1,Penghu County,6,2,8
+2024,1,New Tapei City,6,1,7
+2024,1,Pingtung County,5,1,6
+2024,1,Taoyuan City,2,1,3
+2024,1,Keelung City,2,0,2
+2024,1,Yunlin County,1,1,2
+2024,1,Hualien County ,0,1,1
+2024,1,Kinmen County,0,1,1
+2024,1,Miaoli County,0,1,1
+2024,1,Kaohsiung City,1,0,1
+2024,1,Changhua County,0,1,1
+2024,1,Tainan City,1,0,1
+2024,2,Yilan County,8,0,8
+2024,2,Miaoli County,4,4,8
+2024,2,New Tapei City,5,2,7
+2024,2,Taoyuan City,1,4,5
+2024,2,Pingtung County,3,0,3
+2024,2,Hualien County ,2,0,2
+2024,2,Lienchiang County,0,2,2
+2024,2,Changhua County,0,2,2
+2024,2,Taichung City,0,2,2
+2024,2,Taitung County,2,0,2
+2024,2,Kinmen County,0,1,1
+2024,2,Kaohsiung City,1,0,1
+2024,2,Hsinchu County,0,1,1
+2024,2,Penghu County,1,0,1
+2024,3,New Tapei City,10,3,13
+2024,3,Penghu County,6,4,10
+2024,3,Pingtung County,5,2,7
+2024,3,Yilan County,5,1,6
+2024,3,Taoyuan City,3,2,5
+2024,3,Taitung County,4,1,5
+2024,3,Hualien County ,4,0,4
+2024,3,Miaoli County,2,2,4
+2024,3,Kinmen County,0,3,3
+2024,3,Lienchiang County,0,3,3
+2024,3,Hsinchu County,0,2,2
+2024,3,Kaohsiung City,0,1,1
+2024,3,Hsinchu City,0,1,1
+2024,3,Changhua County,0,1,1
+2024,4,Yilan County,8,1,9
+2024,4,Penghu County,6,3,9
+2024,4,Taitung County,5,3,8
+2024,4,Pingtung County,5,1,6
+2024,4,New Tapei City,5,0,5
+2024,4,Taoyuan City,3,1,4
+2024,4,Keelung City,4,0,4
+2024,4,Lienchiang County,0,2,2
+2024,4,Kinmen County,0,1,1
+2024,4,Miaoli County,0,1,1
+2024,4,Changhua County,0,1,1
+2024,4,Taichung City,0,1,1
+2024,5,Yilan County,6,1,7
+2024,5,Lienchiang County,0,7,7
+2024,5,Penghu County,6,1,7
+2024,5,Taitung County,6,0,6
+2024,5,Pingtung County,2,0,2
+2024,5,Miaoli County,2,0,2
+2024,5,Keelung City,2,0,2
+2024,5,New Tapei City,2,0,2
+2024,5,Changhua County,0,2,2
+2024,5,Hualien County ,0,1,1
+2024,5,Kinmen County,0,1,1
+2024,5,Taoyuan City,1,0,1
+2024,5,Kaohsiung City,1,0,1
+2024,6,Taitung County,8,0,8
+2024,6,Penghu County,5,1,6
+2024,6,Pingtung County,3,1,4
+2024,6,Hualien County ,3,0,3
+2024,6,Yilan County,2,0,2
+2024,6,Lienchiang County,1,1,2
+2024,6,Kinmen County,0,1,1
+2024,6,Keelung City,1,0,1
+2024,6,New Tapei City,1,0,1
+2024,7,Penghu County,5,3,8
+2024,7,Yilan County,4,3,7
+2024,7,New Tapei City,3,3,6
+2024,7,Pingtung County,4,0,4
+2024,7,Taitung County,3,0,3
+2024,7,Hualien County ,1,1,2
+2024,7,Keelung City,1,0,1
+2024,7,Lienchiang County,0,1,1
+2024,7,Hsinchu City,1,0,1
+2024,7,Tainan City,0,1,1
+2024,8,New Tapei City,5,1,6
+2024,8,Pingtung County,4,0,4
+2024,8,Taitung County,2,2,4
+2024,8,Yilan County,2,0,2
+2024,8,Miaoli County,0,2,2
+2024,8,Hualien County ,1,0,1
+2024,8,Taoyuan City,0,1,1
+2024,8,Penghu County,1,0,1
+2024,9,Taitung County,7,0,7
+2024,9,New Tapei City,1,1,2
+2024,9,Yilan County,0,1,1
+2024,9,Kinmen County,1,0,1
+2024,9,Pingtung County,1,0,1
+2024,9,Kaohsiung City,1,0,1
+2024,9,Lienchiang County,0,1,1
+2024,9,Penghu County,1,0,1
+2024,10,Penghu County,6,5,11
+2024,10,Taitung County,6,1,7
+2024,10,Yilan County,6,0,6
+2024,10,New Tapei City,4,1,5
+2024,10,Taichung City,0,5,5
+2024,10,Tainan City,0,4,4
+2024,10,Lienchiang County,1,1,2
+2024,10,Miaoli County,0,1,1
+2024,10,Kaohsiung City,0,1,1
+2024,10,Keelung City,1,0,1
+2024,11,New Tapei City,4,5,9
+2024,11,Penghu County,7,1,8
+2024,11,Yilan County,3,2,5
+2024,11,Lienchiang County,1,3,4
+2024,11,Pingtung County,2,0,2
+2024,11,Kaohsiung City,0,2,2
+2024,11,Yunlin County,0,2,2
+2024,11,Taitung County,2,0,2
+2024,11,Kinmen County,0,1,1
+2024,11,Taoyuan City,1,0,1
+2024,12,Yilan County,14,0,14
+2024,12,Taitung County,6,0,6
+2024,12,Penghu County,5,1,6
+2024,12,New Tapei City,5,0,5
+2024,12,Lienchiang County,0,4,4
+2024,12,Pingtung County,2,1,3
+2024,12,Miaoli County,2,1,3
+2024,12,Kaohsiung City,2,0,2
+2024,12,Keelung City,1,1,2
+2024,12,Hsinchu City,0,2,2
+2024,12,Changhua County,0,2,2
+2024,12,Tainan City,2,0,2
+2024,12,Hualien County ,0,1,1
+2024,12,Taoyuan City,0,1,1
+2024,12,Taichung City,0,1,1
+2025,1,New Tapei City,8,3,11
+2025,1,Taitung County,11,0,11
+2025,1,Penghu County,9,1,10
+2025,1,Yilan County,3,4,7
+2025,1,Keelung City,4,0,4
+2025,1,Pingtung County,3,0,3
+2025,1,Kinmen County,0,2,2
+2025,1,Taoyuan City,1,1,2
+2025,1,Kaohsiung City,1,1,2
+2025,1,Miaoli County,1,0,1
+2025,1,Lienchiang County,0,1,1
+2025,1,Hsinchu City,0,1,1
+2025,1,Tainan City,1,0,1
+2025,2,Yilan County,8,3,11
+2025,2,Penghu County,10,0,10
+2025,2,Pingtung County,5,1,6
+2025,2,New Tapei City,4,1,5
+2025,2,Taoyuan City,1,3,4
+2025,2,Taitung County,3,1,4
+2025,2,Kinmen County,0,3,3
+2025,2,Lienchiang County,0,3,3
+2025,2,Miaoli County,0,2,2
+2025,2,Kaohsiung City,1,1,2
+2025,2,Keelung City,2,0,2
+2025,2,Hualien County ,0,1,1
+2025,2,Changhua County,0,1,1
+2025,2,Tainan City,1,0,1
+2025,3,Yilan County,12,1,13
+2025,3,Taitung County,10,1,11
+2025,3,Penghu County,5,2,7
+2025,3,Kaohsiung City,4,1,5
+2025,3,Taoyuan City,2,1,3
+2025,3,Lienchiang County,0,3,3
+2025,3,New Tapei City,3,0,3
+2025,3,Kinmen County,0,2,2
+2025,3,Pingtung County,2,0,2
+2025,3,Miaoli County,0,2,2
+2025,3,Hualien County ,0,1,1
+2025,3,Keelung City,1,0,1
+2025,3,Taichung City,1,0,1
+2025,3,Tainan City,0,1,1
+2025,4,New Tapei City,8,0,8
+2025,4,Penghu County,7,1,8
+2025,4,Pingtung County,6,0,6
+2025,4,Lienchiang County,0,6,6
+2025,4,Kinmen County,0,5,5
+2025,4,Hualien County ,3,1,4
+2025,4,Taitung County,4,0,4
+2025,4,Miaoli County,1,2,3
+2025,4,Yilan County,2,0,2
+2025,4,Keelung City,1,1,2
+2025,4,Taoyuan City,0,1,1
+2025,4,Kaohsiung City,0,1,1
+2025,4,Tainan City,1,0,1
+2025,5,Penghu County,6,2,8
+2025,5,Yilan County,6,1,7
+2025,5,Pingtung County,5,1,6
+2025,5,Taitung County,6,0,6
+2025,5,Kinmen County,1,2,3
+2025,5,Kaohsiung City,1,1,2
+2025,5,Keelung City,1,1,2
+2025,5,New Tapei City,2,0,2
+2025,5,Hualien County ,1,0,1
+2025,5,Lienchiang County,0,1,1
+2025,5,Changhua County,1,0,1
+2025,6,Yilan County,7,0,7
+2025,6,Taitung County,4,0,4
+2025,6,Hualien County ,2,1,3
+2025,6,Penghu County,3,0,3
+2025,6,Pingtung County,2,0,2
+2025,6,New Tapei City,1,0,1
+2025,6,Hsinchu City,0,1,1
+2025,6,Tainan City,0,1,1
+2025,7,Taitung County,6,0,6
+2025,7,Penghu County,4,2,6
+2025,7,Yilan County,4,1,5
+2025,7,New Tapei City,1,3,4
+2025,7,Pingtung County,3,0,3
+2025,7,Taoyuan City,1,0,1
+2025,7,Kaohsiung City,1,0,1
+2025,8,Taitung County,4,1,5
+2025,8,Yilan County,0,2,2
+2025,8,Pingtung County,1,1,2
+2025,8,Lienchiang County,0,2,2
+2025,8,New Tapei City,2,0,2
+2025,8,Kinmen County,0,1,1
+2025,8,Changhua County,0,1,1
+2025,8,Penghu County,0,1,1
+2025,9,Yilan County,3,0,3
+2025,9,Pingtung County,2,0,2
+2025,9,Lienchiang County,0,2,2
+2025,9,Penghu County,1,1,2
+2025,9,Miaoli County,1,0,1
+2025,9,Keelung City,1,0,1
+2025,9,Hsinchu City,1,0,1
+2025,9,Taitung County,1,0,1
+2025,9,Tainan City,0,1,1
+2025,10,Yilan County,11,0,11
+2025,10,Penghu County,3,2,5
+2025,10,Taitung County,4,0,4
+2025,10,Pingtung County,3,0,3
+2025,10,Miaoli County,3,0,3
+2025,10,Kaohsiung City,1,1,2
+2025,10,Lienchiang County,0,2,2
+2025,10,Kinmen County,0,1,1
+2025,10,New Tapei City,1,0,1
+2025,10,Hsinchu City,1,0,1
