@@ -12,9 +12,11 @@ import dash_bootstrap_components as dbc
 # ======================================
 # Load Data
 # ======================================
-df = pd.read_csv("new.csv")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-with open("Taiwan_ADM1_wgs84.geojson", encoding="utf-8") as f:
+df = pd.read_csv(os.path.join(BASE_DIR, "new.csv"))
+
+with open(os.path.join(BASE_DIR, "Taiwan_ADM1_wgs84.geojson"), encoding="utf-8") as f:
     geo = json.load(f)
 
 # ======================================
@@ -46,10 +48,10 @@ city_map = {
 # Dash App
 # ======================================
 app = Dash(__name__, external_stylesheets=[dbc.themes.COSMO])
-server = app.server    # FOR RENDER / CLOUD RUN DEPLOYMENT
+server = app.server    # FOR CLOUD RUN DEPLOYMENT
 
 # ======================================
-# UI Styling（CSS）
+# UI Styling
 # ======================================
 ui_css = dcc.Markdown(
     """
@@ -203,6 +205,8 @@ app.layout = dbc.Container([
 # ======================================
 # Reset Month / City + Map Click Update
 # ======================================
+GLOBAL_MAX = df["Total Count"].max()
+
 @app.callback(
     Output("city", "value"),
     Output("month", "value"),
@@ -261,9 +265,22 @@ def update_dashboard(year, month, city, category):
         return "#003366" if r["City"] == city else "#d3d3d3"
 
     map_df["MapColor"] = map_df.apply(map_color, axis=1)
+    
+    # ---- Create BLOCK (binned) categories ----    
+    stepped_scale = [
+        (0.00, "#fee8c8"),
+        (0.25, "#fee8c8"),
+        (0.25, "#fdbb84"),
+        (0.50, "#fdbb84"),
+        (0.50, "#e34a33"),
+        (0.75, "#e34a33"),
+        (0.75, "#b30000"),
+        (1.00, "#b30000"),
+    ]
 
     # ---- Map ----
     if city == "All":
+
         fig_map = px.choropleth_mapbox(
             map_df,
             geojson=geo,
@@ -272,9 +289,18 @@ def update_dashboard(year, month, city, category):
             featureidkey="properties.shapeName",
             mapbox_style="open-street-map",
             zoom=6,
-            center={"lat":23.7, "lon":120.9},
-            color_continuous_scale="Blues"
+            center={"lat": 23.7, "lon": 120.9},
+            color_continuous_scale=stepped_scale,
+            range_color=[0, GLOBAL_MAX]
         )
+        fig_map.update_layout(
+            coloraxis_colorbar=dict(
+                title="Number of Strandings",
+                tickvals=[2, 6, 10, 14, 18],
+                ticktext=["0–3", "4–7", "8–11", "12–15", "16–20"]
+            )
+        )
+
     else:
         fig_map = px.choropleth_mapbox(
             map_df,
@@ -288,7 +314,6 @@ def update_dashboard(year, month, city, category):
             color_discrete_map="identity"
         )
 
-    fig_map.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
 
     # ---- Bar Chart ----
     bar_df = filtered.melt(
